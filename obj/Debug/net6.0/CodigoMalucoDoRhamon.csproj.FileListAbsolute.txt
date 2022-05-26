@@ -1,0 +1,15 @@
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\bin\Debug\net6.0\CodigoMalucoDoRhamon.exe
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\bin\Debug\net6.0\CodigoMalucoDoRhamon.deps.json
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\bin\Debug\net6.0\CodigoMalucoDoRhamon.runtimeconfig.json
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\bin\Debug\net6.0\CodigoMalucoDoRhamon.dll
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\bin\Debug\net6.0\CodigoMalucoDoRhamon.pdb
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\obj\Debug\net6.0\CodigoMalucoDoRhamon.csproj.AssemblyReference.cache
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\obj\Debug\net6.0\CodigoMalucoDoRhamon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\obj\Debug\net6.0\CodigoMalucoDoRhamon.AssemblyInfoInputs.cache
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\obj\Debug\net6.0\CodigoMalucoDoRhamon.AssemblyInfo.cs
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\obj\Debug\net6.0\CodigoMalucoDoRhamon.csproj.CoreCompileInputs.cache
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\obj\Debug\net6.0\CodigoMalucoDoRhamon.dll
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\obj\Debug\net6.0\refint\CodigoMalucoDoRhamon.dll
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\obj\Debug\net6.0\CodigoMalucoDoRhamon.pdb
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\obj\Debug\net6.0\CodigoMalucoDoRhamon.genruntimeconfig.cache
+C:\Users\feega\Projetos\GabriewF\Aprendizado\Rhamonzin\CodigoMalucoDoRhamon\obj\Debug\net6.0\ref\CodigoMalucoDoRhamon.dll
