@@ -29,7 +29,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Windows-x64-Binary
-          path: out/CPFValidator.exe
+          path: out/CodigoMalucoDoRhamon.exe
 
   build-windows-x86:
     name: "🔃 BUILD - Build Windows x86"
@@ -54,7 +54,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Windows-x86-Binary
-          path: out/CPFValidator.exe
+          path: out/CodigoMalucoDoRhamon.exe
   
   build-windows-arm:
     name: "🔃 BUILD - Build Windows ARM"
@@ -79,7 +79,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Windows-ARM-Binary
-          path: out/CPFValidator.exe
+          path: out/CodigoMalucoDoRhamon.exe
 
   build-windows-arm64:
     name: "🔃 BUILD - Build Windows ARM64"
@@ -104,4 +104,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Windows-ARM64-Binary
-          path: out/CPFValidator.exe
+          path: out/CodigoMalucoDoRhamon.exe

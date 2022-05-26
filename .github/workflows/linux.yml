@@ -29,7 +29,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Linux-x64-Binary
-          path: out/CPFValidator
+          path: out/CodigoMalucoDoRhamon
 
   # build-linux-x86:
   #   name: "🔃 BUILD - Build Linux x86"
@@ -55,7 +55,7 @@ jobs:
   #       uses: actions/upload-artifact@v3
   #       with:
   #         name: Linux-x86-Binary
-  #         path: out/CPFValidator
+  #         path: out/CodigoMalucoDoRhamon
   
   build-linux-arm:
     name: "🔃 BUILD - Build Linux ARM"
@@ -80,7 +80,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Linux-ARM-Binary
-          path: out/CPFValidator
+          path: out/CodigoMalucoDoRhamon
 
   build-linux-arm64:
     name: "🔃 BUILD - Build Linux ARM64"
@@ -105,7 +105,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Linux-ARM64-Binary
-          path: out/CPFValidator
+          path: out/CodigoMalucoDoRhamon
   
   build-linux-musl-x64:
     name: "🔃 BUILD - Build Linux MUSL x64"
@@ -130,7 +130,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Linux-MUSL-x64-Binary
-          path: out/CPFValidator
+          path: out/CodigoMalucoDoRhamon
 
   # build-linux-musl-x86:
   #   name: "🔃 BUILD - Build Linux MUSL x86"
@@ -156,7 +156,7 @@ jobs:
   #       uses: actions/upload-artifact@v3
   #       with:
   #         name: Linux-MUSL-x86-Binary
-  #         path: out/CPFValidator
+  #         path: out/CodigoMalucoDoRhamon
   
   build-linux-musl-arm:
     name: "🔃 BUILD - Build Linux MUSL ARM"
@@ -181,7 +181,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Linux-MUSL-ARM-Binary
-          path: out/CPFValidator
+          path: out/CodigoMalucoDoRhamon
 
   build-linux-musl-arm64:
     name: "🔃 BUILD - Build Linux MUSL ARM64"
@@ -206,4 +206,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Linux-MUSL-ARM64-Binary
-          path: out/CPFValidator
+          path: out/CodigoMalucoDoRhamon
